@@ -7,7 +7,7 @@ Simple script that auto-elevates and switches the default double click action fo
 Use included RESET script to set things back the way they were.
 ### BecomeTI
 Self-elevating script that opens a new CMD window with the user group NtAuthority\TrustedInstaller enabled. Use to anything your heart desires! (Within limits of course. EL SHADOW does not condone the use of their scripts for legal/illicit purposes and is not responsible for damage down to systems) DISCLAIMER: Some commands may still throw access-denied errors, due to ACLs or other weirdness. Google it if needed.
-## Next EasySunday (ES1):
+## Next EasySunday 11/30 (ES1):
 
 - BootwareFinder
     - Locates and mounts hidden system partitions for exploration.
