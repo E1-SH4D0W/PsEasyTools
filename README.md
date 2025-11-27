@@ -1,5 +1,7 @@
 # PsEasyTools
 Includes many useful PowerShell mini-scripts for things like elevating to TrustedInstaller-level permissions, changing default double-click actions, and much more cool stuff to come! New items every Sunday (Except 11/30).
+
+Use Set-ExecutionPolicy Bypass before running (with -Scope Process if you want it to be temporary) to allow running scripts.
 ## EasySunday0 (Not a sunday) | E1-SH4D0W WelcomePackage
 ### DoubleClickRun.ps1
 Simple script that auto-elevates and switches the default double click action for powershell scripts to run, instead of opening in notepad.
